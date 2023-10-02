@@ -9,18 +9,34 @@
   
 .outsidecontainer {
     display: flex;
-    border: solid 2px red;
     margin: 30px;
     padding: 30px;
+    flex-direction: column;
+    align-items: center;
 }
 
 .linkedbuttons {
     display: flex;
-    border: solid 2px purple;
+    margin: 50px;
+    flex-direction: column;
 }
 
 .linkedtext {
     display: flex;
-    border: solid 2px green;
+    margin: 50px;
+    flex-direction: column;
 }
 
+.link {
+    padding: 5px;
+    margin: 20px;
+}
+
+.button {
+    padding: 5px;
+    margin: 20px;
+}
+
+.button:hover {
+    
+}
