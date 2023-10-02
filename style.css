@@ -1,0 +1,22 @@
+
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  * {
+    margin: 0;
+  }
+  
+.outsidecontainer {
+    display: flex;
+    border: solid 2px red;
+}
+
+.linkedbuttons {
+
+}
+
+.linkedtext {
+
+}
+
