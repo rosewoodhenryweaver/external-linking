@@ -10,13 +10,17 @@
 .outsidecontainer {
     display: flex;
     border: solid 2px red;
+    margin: 30px;
+    padding: 30px;
 }
 
 .linkedbuttons {
-
+    display: flex;
+    border: solid 2px purple;
 }
 
 .linkedtext {
-
+    display: flex;
+    border: solid 2px green;
 }
 
