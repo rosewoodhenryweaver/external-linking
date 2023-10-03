@@ -35,4 +35,19 @@
 .button {
     padding: 5px;
     margin: 20px;
+    background-color: rgba(128, 128, 128, 0.306);
+    border: solid 1px black;
+    text-align: center;
+}
+
+.button:hover{
+    background-color: rgba(128, 128, 128, 0.646);
+}
+
+.link img {
+    height: 15px;
+}
+
+.button img {
+    height: 15px;
 }
